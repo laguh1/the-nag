@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Nag</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">My Nags</string>
+    <string name="home_empty_state">No nags yet. Create one to get started!</string>
+    <string name="home_search_hint">Search nags...</string>
+    <string name="add_nag">Add Nag</string>
+
+    <!-- Create/Edit Screen -->
+    <string name="create_nag_title">Create Nag</string>
+    <string name="edit_nag_title">Edit Nag</string>
+    <string name="nag_name_label">Name</string>
+    <string name="nag_name_hint">Enter nag name</string>
+    <string name="nag_category_label">Category</string>
+    <string name="nag_date_label">Date</string>
+    <string name="nag_time_label">Time</string>
+    <string name="nag_time_range_label">Duration (minutes)</string>
+    <string name="nag_messages_label">Notification Messages</string>
+    <string name="nag_active_label">Active</string>
+    <string name="add_message">Add Message</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <!-- Categories -->
+    <string name="category_work">Work</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_health">Health</string>
+    <string name="category_finance">Finance</string>
+    <string name="category_social">Social</string>
+    <string name="category_custom">Custom</string>
+
+    <!-- Filters -->
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_inactive">Inactive</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Nag Reminders</string>
+    <string name="notification_channel_description">Notifications for your nags</string>
+    <string name="notification_action_snooze">Snooze</string>
+    <string name="notification_action_complete">Complete</string>
+    <string name="notification_action_dismiss">Dismiss</string>
+
+    <!-- Errors -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_message_required">At least one message is required</string>
+    <string name="error_date_required">Please select a date</string>
+    <string name="error_time_required">Please select a time</string>
+    <string name="error_date_past">Date and time must be in the future</string>
+
+    <!-- Dialogs -->
+    <string name="delete_nag_title">Delete Nag?</string>
+    <string name="delete_nag_message">This action cannot be undone.</string>
+    <string name="delete_nag_confirm">Delete</string>
+
+    <!-- Statistics -->
+    <string name="stats_title">Statistics</string>
+    <string name="stats_total_nags">Total Nags</string>
+    <string name="stats_active_nags">Active</string>
+    <string name="stats_inactive_nags">Inactive</string>
+    <string name="stats_total_triggers">Total Triggers</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_default_snooze">Default Snooze Duration</string>
+
+    <!-- Accessibility -->
+    <string name="cd_back">Back</string>
+    <string name="cd_delete">Delete</string>
+    <string name="cd_edit">Edit</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_active_toggle">Toggle active status</string>
+</resources>
